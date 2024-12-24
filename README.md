@@ -8,7 +8,7 @@
 📞 **Mobile** | 010-9935-7301
 ✉️ **Email** | ruejaeeun99@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jane99&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jane99&show_icons=true&theme=dracula)
 <!--
 **dev-jane99/dev-jane99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
