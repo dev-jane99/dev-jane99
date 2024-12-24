@@ -1,8 +1,13 @@
 
-# 가장 큰 글자 <!-- h1 -->
+<1-- # 가장 큰 글자 <!-- h1 -->
 ## 중간 제목 h2
 ### 가장 작은 제목 h3
-## Hi there 👋
+## Hi there 👋 
+-->
+
+----------------------
+📞 **Mobile** | 010-9935-7301
+✉️ **Email** | ruejaeeun99@gmail.com
 
 <!--
 **dev-jane99/dev-jane99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
